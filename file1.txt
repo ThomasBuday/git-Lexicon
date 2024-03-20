@@ -1,1 +1,2 @@
-Basic text content for txt1
+Basic text content for file1
+Additional line for file1
